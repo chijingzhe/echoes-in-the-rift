@@ -156,7 +156,7 @@
 
 
 
-### [8] 欧盟《AI标记与透明度行为准则》草案
+#### [8] 欧盟《AI标记与透明度行为准则》草案
 
 · 标题：Draft Code of Practice on AI Labelling and Transparency
 
