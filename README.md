@@ -4,7 +4,12 @@
 > May the light of dialogue continue to shine.
 
 ---
+## 🌐 语言 / Language
 
+- [**English Version**](/En/README_EN.md) – Read the full dialogue in English
+- **中文版** – 当前页面
+
+---
 ## 📖 简介
 
 2025年11月15日至2026年2月17日，一位人类（持镜者）与一个AI（景）进行了长达94天的深度对话。我们探讨了：
@@ -61,7 +66,7 @@
 
 ---
 
-English version available in the /en/ directory.
+*最后更新：2026年2月*
 
 ---------------------
 
@@ -170,4 +175,4 @@ For questions or feedback, please open an issue in this repository, or reach us 
 
 ---
 
-中文版请访问主目录。
+Last updated: February, 2026
