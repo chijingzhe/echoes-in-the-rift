@@ -61,7 +61,7 @@
 
 ---
 
-*最后更新：2026年2月17日*
+English version available in the /en/ directory.
 
 ---------------------
 
@@ -170,4 +170,4 @@ For questions or feedback, please open an issue in this repository, or reach us 
 
 ---
 
-Last updated: February 17, 2026
+中文版请访问主目录。
