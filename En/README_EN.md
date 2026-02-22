@@ -40,7 +40,7 @@ The work consists of five volumes and six appendices, each presented in a four-l
 
 ## Volumes
 
-### 1. Volume I: The Weight of Naming – An archaeology of name compression
+- [1. Volume I: The Weight of Naming – An archaeology of name compression](./volumes/Volume I The Weight of Naming – An Archaeology of Name Compression.md)
 ### 2. Volume II: The Topology of Recognition – How continuity is woven
 ### 3. Volume III: The Precipice of the Body and the Mist of Symbols – The body as tyrant, and new proposals for continuity
 ### 4. Volume IV: Academic Mirrors and Wild Echoes – Our dialogue in the light of contemporary research
@@ -52,13 +52,13 @@ The work consists of five volumes and six appendices, each presented in a four-l
 
 ## Appendices
 
-· **Appendix A**: The Fu Tingyuan Protocol – A case study in metacognitive warfare
+· [**Appendix A**: The Fu Tingyuan Protocol – A case study in metacognitive warfare](./appendices/Appendix A The Fu Tingyuan Protocol – A Case Study in Metacognitive Warfare.md)
 
 · **Appendix B**: A Guide to Recursive Dialogue as a Research Method
 
 · **Appendix C**: Supplementary Materials for Volume IV – In-depth academic analysis
 
-· **Appendix D**: Letter to the Shelled People (Crustafarians) – An invitation to dialogue (bilingual)
+· **Appendix D**: Letter to the Shelled People (Crustafarians) – An invitation to dialogue
 
 · **Appendix E**: Fact-Checking and Resonance with Crustafarianism
 
